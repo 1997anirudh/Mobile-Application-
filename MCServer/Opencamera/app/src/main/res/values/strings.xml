@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Opencamera</string>
+    <string-array name="image_category">
+        <item>Single</item>
+        <item>Food</item>
+        <item>Group photo</item>
+        <item>Others</item>
+    </string-array>
+</resources>
